@@ -2,7 +2,7 @@
 
 # :man_technologist: Inquisitive AI engineer
 
-- 🔭 I’m currently working on **Data Science** 
+- 🔭 I’m currently working on **Python Developer** 
 - 🏃‍♂️	I’m looking to collaborate in the fild of **A.I** & **Data science**
 
 
